@@ -1,0 +1,1 @@
+SQL örnek çalışmaları yapılmıştır.
